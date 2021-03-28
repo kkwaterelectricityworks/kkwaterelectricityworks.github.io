@@ -4,7 +4,7 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseurl = "https://example.org/"
+baseurl = "https://kkwaterelectricityworks.github.io/"
 languageCode = "zh-HK"
 title = "基記水電冷氣工程"
 theme = "hugo-myportfolio-theme"
