@@ -18,10 +18,10 @@ services:
   icon_pack: "fas"
   list: ["安裝門鎖", "更換門鎖"]
 - name: "電力"
-  icon: "fa-lightbulb"
+  icon: "fa-bolt"
   icon_pack: "far"
   list: [ "申請電錶", "電力裝置", "電力短路"]
 - name: "維修電器"
-  icon: "fa-bolt"
+  icon: "fa-lightbulb"
   icon_pack: "fas"
 ---
