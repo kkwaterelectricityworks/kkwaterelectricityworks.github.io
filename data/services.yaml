@@ -1,0 +1,25 @@
+---
+title: "服務"
+background_image: ""
+
+# List of services.
+# Optional "text", "icon_pack" & "list"
+services:
+- name: "安裝、清洗或維修冷氣機"
+  icon: "fa-toolbox"
+  icon_pack: "fas"
+  list: [ "安裝冷氣機", "清洗冷氣機", "維修冷氣機" ]
+- name: "水喉工程"
+  icon: "fa-tint"
+  icon_pack: "fas"
+  list: [ "安裝水喉", "維修水喉"]
+- name: "更換門鎖"
+  icon: "fa-lock"
+  icon_pack: "fas"
+- name: "更換燈泡"
+  icon: "fa-lightbulb"
+  icon_pack: "far"
+- name: "維修電器"
+  icon: "fa-bolt"
+  icon_pack: "fas"
+---

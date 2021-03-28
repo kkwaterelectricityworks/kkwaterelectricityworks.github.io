@@ -1,0 +1,20 @@
+---
+title: "聯絡"
+background_image: ""
+photo: "shop.jpg"
+description: "歡迎查詢"
+
+email:
+  address: "kkwaterelectricityworks@gmail.com"
+  link: false
+  icon: "fa-envelope"
+  icon-pack: "fas"
+
+social:
+- icon: "fa-whatsapp"
+  icon_pack: "fab"
+  link: "https://wa.me/85295008663"
+- icon: "fa-phone"
+  icon_pack: "fas"
+  link: "tel:+852-95008663"
+---
