@@ -28,7 +28,7 @@ custom_css = [ "custom.css" ]
 [params.meta]
 # To provide some metadata for search engines (OPTIONAL)
 author = "基記水電冷氣工程"
-description = "港島東區基記水電冷氣工程"
+description = "港島 東區 西灣河 基記 水喉 電力 冷氣 水電工程 維修 燈膽 門鎖"
 
 # The path must be relative to the static folder (MANDATORY)
 favicon = "favicon.ico"
